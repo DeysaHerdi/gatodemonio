@@ -4,3 +4,5 @@ function eAgoraYsa(){
 console.log(global.variavelNova)
 eAgoraYsa()
 console.log(global.variavelNova)
+
+xD
