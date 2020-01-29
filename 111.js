@@ -9,4 +9,4 @@ Array.prototype.meuMap = function(funcao){
     }
     return novoArray
 }
-console.log(trecos.meuMap([i] + 'Luz'))
+trecos.meuMap(texto => texto.length)
