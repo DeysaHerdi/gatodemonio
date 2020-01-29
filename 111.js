@@ -9,3 +9,4 @@ Array.prototype.meuMap = function(funcao){
     }
     return novoArray
 }
+console.log.meuMap(trecos)
