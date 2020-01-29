@@ -1,3 +1,5 @@
+const trecos = ['caneta', 'bola', 'flor']
+
 Array.prototype.meuMap = function(funcao){
     let novoArray = []
     for(let i = 0; i < this.length; i++){
