@@ -1,4 +1,4 @@
-const trecos = ['caneta', 'bola', 'flor']
+const trecos = [1, 2, 3]
 
 Array.prototype.meuMap = function(funcao){
     let novoArray = []
@@ -9,4 +9,6 @@ Array.prototype.meuMap = function(funcao){
     }
     return novoArray
 }
+
+const arrayNovo = 
 trecos.meuMap(texto => texto.length)
