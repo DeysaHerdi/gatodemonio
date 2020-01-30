@@ -23,3 +23,4 @@ const transformaPessoaEmNome = pessoa => pessoa.nome
 const pessoasDaBahiaEChatas = pessoas.filter(ehChata).filter(ehDaBahia)
 const pessoasDoRioENaoChatas = pessoas.filter(naoEhChata).filter(ehDoRio)
 const nomesDasPessoasChatas = pessoas.filter(ehChata).map(transformaPessoaEmNome)
+console.log(transformaPessoaEmNome)
