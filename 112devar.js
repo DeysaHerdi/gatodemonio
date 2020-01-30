@@ -13,7 +13,7 @@ const pessoas = [
     {nome: 'Taillos',chato: true,origem: 'shakespeare'}
 ]
 //funções para usar no filter
-const ehDoRio = pessoa => pessoa.rio == 'rio'
+const ehDoRio = pessoa => pessoa.origem == 'rio'
 const ehChata = pessoa => pessoa.chato
 const naoEhChata = pessoa => !pessoa.chato
 const ehDaBahia = pessoa => pessoa.origem == 'bahia'
