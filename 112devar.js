@@ -22,5 +22,5 @@ const transformaPessoaEmNome = pessoa => pessoa.nome
 //exemplos de como usar filter e inclusive map
 const pessoasDaBahiaEChatas = pessoas.filter(ehChata).filter(ehDaBahia)
 const pessoasDoRioENaoChatas = pessoas.filter(naoEhChata).filter(ehDoRio)
-const nomesDasPessoasChatas = pessoas.filter(ehChata).map(transformaPessoaEmNome)
+const nomesDasPessoasChatas = pessoas.map(transformaPessoaEmNome).filter(ehChata)
 console.log(nomesDasPessoasChatas)
