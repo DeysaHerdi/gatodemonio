@@ -5,3 +5,12 @@ const produtos = [
     {nome: 'Copo de Plástico', preco: 18.99, fragil: false}
 
 ]
+
+console.log(produtos.filter(function(p){
+    return 
+}))
+
+const caro = produto => produtos.preco >= 500
+const fragil = produto => produtos.fragil
+
+console.log(produtos.filter(caro))
