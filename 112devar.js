@@ -19,10 +19,10 @@ const naoEhChata = pessoa => !pessoa.chato
 const ehDaBahia = pessoa => pessoa.origem == 'bahia'
 //função para usar no map
 const transformaPessoaEmNome = pessoa => pessoa.nome
-
 //exemplos de como usar filter e inclusive map
 const pessoasDaBahiaEChatas = pessoas.filter(ehChata).filter(ehDaBahia)
 const pessoasDoRioENaoChatas = pessoas.filter(naoEhChata).filter(ehDoRio)
 const nomesDasPessoasChatas = pessoas.filter(ehChata).map(transformaPessoaEmNome)
 console.log(nomesDasPessoasChatas)
 console.log(pessoasDoRioENaoChatas)
+console.log(pessoasDaBahiaEChatas)
