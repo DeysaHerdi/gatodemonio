@@ -7,5 +7,4 @@ const cep = require('cep-promise')
 const postalCodes = require('postal-codes-js');
 const sigla = 'USA'
 const codigoPostal = '91746-2302'
-postalCodes.validate(sigla, codigoPostal)
-console.log(vale => console.log(vale))
+console.log(postalCodes.validate(sigla, codigoPostal))
