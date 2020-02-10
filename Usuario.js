@@ -1,5 +1,5 @@
-let usuario = 'admin'
-let senha = 'admin'
+let usuario = 'root'
+let senha = 'root'
 let numeroDeTentaivas = 0
 
 this.logar = (login, passaword) =>{
@@ -11,5 +11,6 @@ this.logar = (login, passaword) =>{
         console.log('Parabens voce conseguiu logar no sietama')
         }else{
             console.log('Usuario e senha invalidos')
+            numeroDeTentaivas++;
         }
 }
