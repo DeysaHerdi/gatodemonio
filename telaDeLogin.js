@@ -1,3 +1,6 @@
-const 122Usuario = require('./122Usuario')
+const Usuario = require('./Usuario')
 
-//console.log(`não consigo ver o ${Usuario.usuario} e ${Usuario.senha}`)
+console.log(`não consigo ver o ${Usuario.usuario} e ${Usuario.senha}`)
+console.log(`Mas consigo logar`)
+
+Usuario.logar('ysa', 'rot')
