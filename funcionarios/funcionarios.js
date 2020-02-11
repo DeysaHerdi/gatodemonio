@@ -3,4 +3,7 @@ const axios = require('axios')
 
 axios.get(url).then(response =>{
     const funcionarios = response.data
+
+    const funcionariosChineses = funcionarios.filter(funcionarios.pais == 'China')
+    console.log(`São chineses o total de ${funcionariosChineses.length}`)
 })
