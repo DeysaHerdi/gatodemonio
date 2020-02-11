@@ -1,15 +1,11 @@
 const url = 'http://files.cod3r.com.br/curso-js/funcionarios.json'
 const axios = require('axios')
 
-axios.get(url).then(res => {
-    const funcionarios = res.data
 
-    const xxxxx = funcionarios.filter(funcionario => funcionario.pais === 'China')
-                              .filter(funcionario => funcionario.salario > 22000)
-                              .filter(funcionario => funcionario.genero === 'F')
-                              .map(funcionario => funcionario.nome)
+const fMulheres = funcionarios.filter(funcionario => funcionario.genero == 'F')
+const fChineses = funcionarios.filter(funcionario => funcionario.pais == 'China')
     
-    const ultimoXXXXX = xxxxx[xxxxx.length-1];
+axios.get(url).then(response => {
+    const funcionarios = response.data    
 
-    console.log(ultimoXXXXX.substr(0,3)) 
 })
