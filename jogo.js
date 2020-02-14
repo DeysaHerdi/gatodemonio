@@ -7,4 +7,4 @@ Campeao.removerDoLol('Taric')
 Campeao.quantosCampeoes();
 
 Loja.comprarRP(10000)
-Loja.gastar(2000000)
+Loja.gastarRP(2000000)
