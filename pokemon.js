@@ -1,3 +1,11 @@
+class Blacklist {
+    constructor(nome, tipo, poder){
+        this.nome = nome
+        this.tipo = tipo
+        this.poder = poder
+    }
+
+}
 class Pokemon {
 
     constructor(nome, tipo){
