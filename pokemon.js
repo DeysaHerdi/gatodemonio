@@ -7,6 +7,9 @@ class Blacklist {
     atacar2(outroBlacklist) {
         console.log(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável 
         amigo e diz`)
+        if(this.tipo == 'Trevas' && outroBlacklist.tipo == 'Loucuras'){
+            console.log(`${this.poder}`)
+        }
     }
 
 }
