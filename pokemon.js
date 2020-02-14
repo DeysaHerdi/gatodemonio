@@ -1,12 +1,12 @@
 class Blacklist {
-    constructor(nome, tipo, poder){
+    constructor(nome, tipo){
         this.nome = nome
         this.tipo = tipo
         this.poder = poder
     }
     atacar2(outroBlacklist){
-        console.log if(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável 
-        amigo e diz ${this.poder}e assim acaba o dia feliz!`);
+        console.log(`Em um dia feliz ${this.nome}, ser das ${this.tipo} escuta seu inseparável 
+        amigo`)
     }
 
 }
