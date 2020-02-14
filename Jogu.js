@@ -3,6 +3,6 @@ const BatalhaPokemon = require('./BatalhaPokemon')
 
 let charizard = new Pokemon('charizard', 'fogo')
 let squirtle = new Pokemon('squirtle', 'agua')
-let 
+let Devar = new Blacklist('Devar', 'Trevas','')
 
 BatalhaPokemon.luta(charizard, squirtle)
