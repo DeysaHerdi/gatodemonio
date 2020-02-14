@@ -5,7 +5,8 @@ class Blacklist {
         this.poder = poder
     }
     atacar2(outroBlacklist){
-        console.log(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável amigo e diz ${this.poder} e assim avaba o dia feliz!`)
+        console.log(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável 
+        amigo e diz ${this.poder} e assim acaba o dia feliz!`)
     }
 
 }
@@ -30,3 +31,4 @@ class Pokemon {
 }
 //aqui eu voltei a classe em si
 module.exports = Pokemon
+module.exports = Blacklist
