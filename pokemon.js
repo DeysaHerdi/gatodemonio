@@ -10,7 +10,7 @@ class Blacklist {
         if(this.tipo == 'Trevas' && outroBlacklist.tipo == 'Loucuras'){
             console.log(`${this.poder}`)
         }else{
-            console.log('Aiai')
+            console.log(`${this.poder}`)
         }
     }
 
