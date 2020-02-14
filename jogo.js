@@ -7,6 +7,7 @@ Campeao.quantosCampeoes();
 Campeao.removerDoLol('Braum')
 Campeao.removerDoLol('Taric')
 Campeao.quantosCampeoes();
+Teste.quantosCampeoes();
 
 Loja.comprarRP(10000)
 Loja.gastarRP(2000000)
