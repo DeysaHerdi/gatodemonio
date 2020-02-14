@@ -1,5 +1,5 @@
 const Loja = require('./Loja')
-//const Campeao = require('./Campeao')
+const Campeao = require('./Campeao')
 
 const Teste = require('./Campeao')
 
