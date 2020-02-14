@@ -4,6 +4,9 @@ class Blacklist {
         this.tipo = tipo
         this.poder = poder
     }
+    atacar2(outroBlacklist){
+        console.log(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável amigo e diz ${this.poder} e assim avaba o dia feliz!`)
+    }
 
 }
 class Pokemon {
