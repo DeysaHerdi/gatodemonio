@@ -5,8 +5,8 @@ class Blacklist {
         this.poder = poder
     }
     atacar2(outroBlacklist){
-        console.log(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável 
-        amigo e diz ${this.poder} e assim acaba o dia feliz!`)
+        console.log if(`Em um dia feliz ${this.nome} ser das ${this.tipo} escuta seu inseparável 
+        amigo e diz ${this.poder}e assim acaba o dia feliz!`);
     }
 
 }
