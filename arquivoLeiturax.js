@@ -10,3 +10,5 @@ fs.readFile(caminhoDoArquivo, 'utf-8', (erro,conteudo)=>{
     console.log(conteudo)
     }
 })
+const conteudo = require('./arquivo.x.json')
+console.log(`${conteudo.destinatario} !!! ${conteudo.mensage}`)
