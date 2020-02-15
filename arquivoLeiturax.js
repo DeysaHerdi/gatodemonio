@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 const caminhoDoArquivo = `${__dirname}/arquivo.x.txt`
-fs.readFile(caminhoDoArquivo, 'utf-8', (erro,conteudo)=>{
+fs.readFile(caminhoDoArquivo, 'base64', (erro,conteudo)=>{
     if(erro){
         console.log(`erro ao ler arquivo, erro:
         ${erro}`)
