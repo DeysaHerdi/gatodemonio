@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const caminhoDoArquivo = `${__dirname}/aquivo.x.txt`
+const caminhoDoArquivo = `${__dirname}/arquivo.x.txt`
 fs.readFile(caminhoDoArquivo, 'utf-8', (erro,conteudo)=>{
     if(erro){
         console.log(`erro ao ler arquivo, erro:
@@ -11,4 +11,4 @@ fs.readFile(caminhoDoArquivo, 'utf-8', (erro,conteudo)=>{
     }
 })
 const conteudo = require('./arquivo.x.json')
-console.log(`${conteudo.destinatario} !!! ${conteudo.mensage}`)
+console.log(`${conteudo.destinatario} !!! ${conteudo.mensagem}`)
