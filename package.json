@@ -1,0 +1,27 @@
+{
+  "name": "Testesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cep-promise": "^3.0.9",
+    "lodash": "^4.17.15",
+    "lol-champions": "^8.11.0",
+    "postal-codes-js": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeysaHerdi/gatodemonio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeysaHerdi/gatodemonio/issues"
+  },
+  "homepage": "https://github.com/DeysaHerdi/gatodemonio#readme"
+}
