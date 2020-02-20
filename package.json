@@ -8,6 +8,7 @@
     "express": "4.16.2",
     "lodash": "^4.17.15",
     "lol-champions": "^8.11.0",
+    "nodemon": "^2.0.2",
     "postal-codes-js": "^2.2.5"
   },
   "devDependencies": {},
