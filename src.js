@@ -13,5 +13,10 @@ const atualizarContador = (req, res) => {
 
 const resetaContador = (req, res) => {
     contador = 0
-
+    res.send(`Começando tudo de novo`)
 }
+
+app.get('/contador', getContador)
+app.put('/contador', atualizarContador)
+app.delete('/contador', resetaContador)
+app.listen(8000)
