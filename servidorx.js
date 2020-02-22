@@ -1,6 +1,6 @@
 const app = require('express')()
 const bodyParser = require('body-parser')
-const bancoDeDados = require('../bancoDeDadosx')
+const bancoDeDadosx = require('./bancoDeDadosx')
 
 
 app.use(bodyParser.json()) 
@@ -29,3 +29,4 @@ app.get('/produtos/:id', getProdutoPeloId)
 app.delete('/produtos/:id', deletarProdutoPeloId)
 app.post('/produtos', salvarProduto)
 app.listen(3003)
+app.listen(3003, () => console.log('rodando'))
