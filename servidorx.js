@@ -1,6 +1,6 @@
 const app = require('express')()
 const bodyParser = require('body-parser')
-const bancoDeDadosx = require('./bancoDeDadosx')
+const bancoDeDados = require('./bancoDeDadosx')
 
 
 app.use(bodyParser.json()) 
