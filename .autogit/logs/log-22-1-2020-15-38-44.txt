@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Feb 22 2020 15:38:44 GMT-0300 (Horário Padrão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-22-1-2020-15-35-39.txt
+
+
+Deleted files:
+
+
+Renamed files:
