@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 04:22:37 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* telaDeLogin.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]

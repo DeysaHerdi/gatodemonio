@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 04:47:57 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* package-lock.json
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Feb 14 2020 03:06:40 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* BatalhaPokemon.js
+* Jogu.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

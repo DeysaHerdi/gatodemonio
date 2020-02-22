@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 05:08:24 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* usandoModulosTerceiros.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

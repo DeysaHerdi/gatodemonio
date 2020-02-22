@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 03:57:55 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* moduloA.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

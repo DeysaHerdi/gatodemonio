@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Feb 13 2020 22:35:11 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* jogo.js
+
+
+Created files:
+* Loja.js
+
+
+Deleted files:
+
+
+Renamed files:

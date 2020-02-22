@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 22:24:42 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* funcionarios/funcionarios.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

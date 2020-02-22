@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Feb 15 2020 06:47:59 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* arquivo.x.jason
+
+
+Deleted files:
+
+
+Renamed files:

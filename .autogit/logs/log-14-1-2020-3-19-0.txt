@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Feb 14 2020 03:19:00 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* pokemon.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

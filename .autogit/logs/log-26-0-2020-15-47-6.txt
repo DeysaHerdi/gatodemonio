@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jan 26 2020 15:47:06 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .gitignore
+* 103.js
+* 105.js
+* 108.js
+* arrayjason.js
+* chavemae.js
+* clases2.js
+* classemiojao.js
+* emobesta.js
+* jsontest.js
+* objpaifilho.js
+* ovoov.js
+
+
+Deleted files:
+
+
+Renamed files:

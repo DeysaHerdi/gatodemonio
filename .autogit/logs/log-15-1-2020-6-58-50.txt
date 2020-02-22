@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Feb 15 2020 06:58:50 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* arquivoLeiturax.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

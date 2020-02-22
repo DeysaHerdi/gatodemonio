@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 21:32:15 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* funcionarios/package.json
+
+
+Created files:
+* funcionarios/package-lock.json
+
+
+Deleted files:
+
+
+Renamed files:

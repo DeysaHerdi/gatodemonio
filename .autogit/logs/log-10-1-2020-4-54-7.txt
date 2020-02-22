@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 10 2020 04:54:07 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* usandoModulosTerceiros.js
+
+
+Deleted files:
+
+
+Renamed files:
