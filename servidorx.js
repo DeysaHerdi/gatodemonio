@@ -1,6 +1,8 @@
 const app = require('express')()
 const bodyParser = require('body-parser')
-const bancoDeDados = require('../src2/bancoDeDadosx')
+const bancoDeDados = require('../bancoDeDadosx')
+
+
 app.use(bodyParser.json()) 
 
 const getProdutos = (req, res) => {
