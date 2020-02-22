@@ -12,7 +12,7 @@ const salvarProduto = produto => {
         produtos.push(produto)
     }
     return produto
-}
+} 
 
 const pegarProdutoComOId = id => {
     //Além do map, forEach e filter, temos o find, muito util
