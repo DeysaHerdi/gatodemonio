@@ -1,0 +1,187 @@
+-------------------- Auto-Git Log --------------------
+		Sat Feb 22 2020 15:23:26 GMT-0300 (Horário Padrão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-10-1-2020-16-45-13.txt
+* .autogit/logs/log-10-1-2020-21-26-5.txt
+* .autogit/logs/log-10-1-2020-21-32-15.txt
+* .autogit/logs/log-10-1-2020-21-50-46.txt
+* .autogit/logs/log-10-1-2020-22-0-1.txt
+* .autogit/logs/log-10-1-2020-22-12-21.txt
+* .autogit/logs/log-10-1-2020-22-15-27.txt
+* .autogit/logs/log-10-1-2020-22-21-37.txt
+* .autogit/logs/log-10-1-2020-22-24-42.txt
+* .autogit/logs/log-10-1-2020-22-6-11.txt
+* .autogit/logs/log-10-1-2020-22-9-16.txt
+* .autogit/logs/log-10-1-2020-3-23-59.txt
+* .autogit/logs/log-10-1-2020-3-51-44.txt
+* .autogit/logs/log-10-1-2020-3-54-50.txt
+* .autogit/logs/log-10-1-2020-3-57-55.txt
+* .autogit/logs/log-10-1-2020-4-1-0.txt
+* .autogit/logs/log-10-1-2020-4-13-21.txt
+* .autogit/logs/log-10-1-2020-4-16-26.txt
+* .autogit/logs/log-10-1-2020-4-19-31.txt
+* .autogit/logs/log-10-1-2020-4-22-37.txt
+* .autogit/logs/log-10-1-2020-4-25-42.txt
+* .autogit/logs/log-10-1-2020-4-28-47.txt
+* .autogit/logs/log-10-1-2020-4-31-52.txt
+* .autogit/logs/log-10-1-2020-4-44-52.txt
+* .autogit/logs/log-10-1-2020-4-47-57.txt
+* .autogit/logs/log-10-1-2020-4-54-7.txt
+* .autogit/logs/log-10-1-2020-4-59-8.txt
+* .autogit/logs/log-10-1-2020-5-11-29.txt
+* .autogit/logs/log-10-1-2020-5-14-34.txt
+* .autogit/logs/log-10-1-2020-5-17-39.txt
+* .autogit/logs/log-10-1-2020-5-2-13.txt
+* .autogit/logs/log-10-1-2020-5-23-49.txt
+* .autogit/logs/log-10-1-2020-5-26-54.txt
+* .autogit/logs/log-10-1-2020-5-29-59.txt
+* .autogit/logs/log-10-1-2020-5-5-18.txt
+* .autogit/logs/log-10-1-2020-5-8-24.txt
+* .autogit/logs/log-11-1-2020-17-22-21.txt
+* .autogit/logs/log-11-1-2020-17-47-1.txt
+* .autogit/logs/log-11-1-2020-18-33-18.txt
+* .autogit/logs/log-11-1-2020-18-36-23.txt
+* .autogit/logs/log-11-1-2020-18-39-28.txt
+* .autogit/logs/log-11-1-2020-18-42-33.txt
+* .autogit/logs/log-11-1-2020-18-45-38.txt
+* .autogit/logs/log-11-1-2020-18-48-43.txt
+* .autogit/logs/log-12-1-2020-0-0-17.txt
+* .autogit/logs/log-13-1-2020-22-25-55.txt
+* .autogit/logs/log-13-1-2020-22-29-0.txt
+* .autogit/logs/log-13-1-2020-22-32-5.txt
+* .autogit/logs/log-13-1-2020-22-35-11.txt
+* .autogit/logs/log-13-1-2020-22-41-21.txt
+* .autogit/logs/log-13-1-2020-22-50-36.txt
+* .autogit/logs/log-13-1-2020-22-53-42.txt
+* .autogit/logs/log-13-1-2020-22-56-47.txt
+* .autogit/logs/log-13-1-2020-23-24-33.txt
+* .autogit/logs/log-13-1-2020-23-27-38.txt
+* .autogit/logs/log-13-1-2020-23-55-24.txt
+* .autogit/logs/log-13-1-2020-23-58-29.txt
+* .autogit/logs/log-13-1-2020-23-6-2.txt
+* .autogit/logs/log-13-1-2020-23-9-8.txt
+* .autogit/logs/log-13-1-2020-3-56-45.txt
+* .autogit/logs/log-14-1-2020-2-57-25.txt
+* .autogit/logs/log-14-1-2020-3-0-30.txt
+* .autogit/logs/log-14-1-2020-3-15-55.txt
+* .autogit/logs/log-14-1-2020-3-19-0.txt
+* .autogit/logs/log-14-1-2020-3-22-6.txt
+* .autogit/logs/log-14-1-2020-3-25-11.txt
+* .autogit/logs/log-14-1-2020-3-28-16.txt
+* .autogit/logs/log-14-1-2020-3-3-35.txt
+* .autogit/logs/log-14-1-2020-3-31-21.txt
+* .autogit/logs/log-14-1-2020-3-37-31.txt
+* .autogit/logs/log-14-1-2020-3-40-36.txt
+* .autogit/logs/log-14-1-2020-3-43-41.txt
+* .autogit/logs/log-14-1-2020-3-6-40.txt
+* .autogit/logs/log-14-1-2020-3-9-45.txt
+* .autogit/logs/log-15-1-2020-6-35-38.txt
+* .autogit/logs/log-15-1-2020-6-38-43.txt
+* .autogit/logs/log-15-1-2020-6-41-48.txt
+* .autogit/logs/log-15-1-2020-6-44-53.txt
+* .autogit/logs/log-15-1-2020-6-47-59.txt
+* .autogit/logs/log-15-1-2020-6-52-40.txt
+* .autogit/logs/log-15-1-2020-6-55-45.txt
+* .autogit/logs/log-15-1-2020-6-58-50.txt
+* .autogit/logs/log-15-1-2020-7-11-11.txt
+* .autogit/logs/log-15-1-2020-7-14-16.txt
+* .autogit/logs/log-15-1-2020-7-17-21.txt
+* .autogit/logs/log-15-1-2020-7-20-26.txt
+* .autogit/logs/log-15-1-2020-7-23-31.txt
+* .autogit/logs/log-19-1-2020-20-44-30.txt
+* .autogit/logs/log-19-1-2020-20-47-35.txt
+* .autogit/logs/log-19-1-2020-20-50-40.txt
+* .autogit/logs/log-19-1-2020-20-59-56.txt
+* .autogit/logs/log-19-1-2020-21-24-37.txt
+* .autogit/logs/log-19-1-2020-21-3-2.txt
+* .autogit/logs/log-19-1-2020-21-6-6.txt
+* .autogit/logs/log-21-1-2020-22-3-7.txt
+* .autogit/logs/log-21-1-2020-22-30-55.txt
+* .autogit/logs/log-21-1-2020-22-34-0.txt
+* .autogit/logs/log-21-1-2020-22-46-20.txt
+* .autogit/logs/log-21-1-2020-23-11-2.txt
+* .autogit/logs/log-21-1-2020-23-17-22.txt
+* .autogit/logs/log-21-1-2020-23-20-27.txt
+* .autogit/logs/log-21-1-2020-23-23-32.txt
+* .autogit/logs/log-21-1-2020-23-26-38.txt
+* .autogit/logs/log-21-1-2020-23-32-56.txt
+* .autogit/logs/log-21-1-2020-23-49-58.txt
+* .autogit/logs/log-21-1-2020-23-7-57.txt
+* .autogit/logs/log-26-0-2020-15-47-6.txt
+* .autogit/logs/log-26-0-2020-18-24-25.txt
+* .autogit/logs/log-28-0-2020-20-49-27.txt
+* .autogit/logs/log-28-0-2020-21-48-4.txt
+* .autogit/logs/log-28-0-2020-21-51-9.txt
+* .autogit/logs/log-28-0-2020-23-36-2.txt
+* .autogit/logs/log-28-0-2020-23-39-7.txt
+* .autogit/logs/log-28-0-2020-23-42-13.txt
+* .autogit/logs/log-28-0-2020-23-45-18.txt
+* .autogit/logs/log-28-0-2020-23-48-23.txt
+* .autogit/logs/log-28-0-2020-23-51-28.txt
+* .autogit/logs/log-29-0-2020-0-13-4.txt
+* .autogit/logs/log-29-0-2020-23-42-42.txt
+* .autogit/logs/log-29-0-2020-23-45-47.txt
+* .autogit/logs/log-29-0-2020-23-48-52.txt
+* .autogit/logs/log-29-0-2020-23-51-57.txt
+* .autogit/logs/log-29-0-2020-23-58-8.txt
+* .autogit/logs/log-30-0-2020-0-1-13.txt
+* .autogit/logs/log-30-0-2020-0-10-28.txt
+* .autogit/logs/log-30-0-2020-0-13-33.txt
+* .autogit/logs/log-30-0-2020-0-16-38.txt
+* .autogit/logs/log-30-0-2020-0-25-53.txt
+* .autogit/logs/log-30-0-2020-0-28-59.txt
+* .autogit/logs/log-30-0-2020-0-32-4.txt
+* .autogit/logs/log-30-0-2020-0-38-14.txt
+* .autogit/logs/log-30-0-2020-0-41-19.txt
+* .autogit/logs/log-30-0-2020-0-44-24.txt
+* .autogit/logs/log-30-0-2020-0-50-34.txt
+* .autogit/logs/log-6-1-2020-20-3-7.txt
+* .autogit/logs/log-7-1-2020-0-3-52.txt
+* .autogit/logs/log-7-1-2020-21-38-25.txt
+* .autogit/logs/log-7-1-2020-21-41-31.txt
+* .autogit/logs/log-8-1-2020-3-14-41.txt
+* .autogit/logs/log-9-1-2020-2-31-29.txt
+* .autogit/logs/log-9-1-2020-2-34-35.txt
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
