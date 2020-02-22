@@ -13,7 +13,7 @@ const getProdutoPeloId = (req, res) => {
     const id = req.params.id;
     const produto = bancoDeDadosx.pegarProdutoComOId(id)
     res.send(produto)
-}
+} 
 const deletarProdutoPeloId = (req, res) => {
     const id = req.params.id;
     bancoDeDadosx.deletarProdutoPeloId(id)
