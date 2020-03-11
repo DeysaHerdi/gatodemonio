@@ -7,3 +7,12 @@
     border: 1px solid black;
     padding: 5px;
 }
+.tabelaDeRobo th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.tabelaDeRobo caption{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.5em;
+}
