@@ -16,3 +16,7 @@
     font-style: italic;
     font-size: 1.5em;
 }
+tfoot tr:hover{
+    background-color: black;
+
+}
