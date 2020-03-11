@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .cabecalho {
+    min-height: 10vh;
+  }
+  .conteudo {
+    min-height: 80vh;
+    margin-bottom: 10vh;
+  }
+  .rodape {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 10vh;
+  }
