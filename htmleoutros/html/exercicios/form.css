@@ -1,18 +1,16 @@
-* {
-    margin: 0;
-    padding: 0;
+.campo {
+    display: block;
+    margin-bottom: 10px;
   }
-  .cabecalho {
-    min-height: 10vh;
+  .tipos input {
+    display: inline-block;
+    margin-bottom: 10px;
   }
-  .conteudo {
-    min-height: 80vh;
-    margin-bottom: 10vh;
+  .habilidades input {
+    display: inline-block;
+    margin-bottom: 10px;
   }
-  .rodape {
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
-    left: 0px;
-    height: 10vh;
+  .habilidades,
+  .tipos {
+    margin-bottom: 20px;
   }
