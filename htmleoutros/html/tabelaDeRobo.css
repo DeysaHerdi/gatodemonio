@@ -19,6 +19,7 @@
 tfoot tr:hover{
     background-color: black;
     color: white;
-    
-
+}
+tfoot td{
+    color: white;
 }
