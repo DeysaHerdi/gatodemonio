@@ -1,0 +1,9 @@
+.tabelaDeRobo{
+    text-align: left;
+    border-collapse: collapse;
+    width: 50%;
+}
+.tabelaDeRobo td{
+    border: 1px solid black;
+    padding: 5px;
+}
