@@ -7,7 +7,7 @@
     "body-parser": "1.18.2",
     "cep-promise": "^3.0.9",
     "express": "4.16.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lol-champions": "^8.11.0",
     "nodemon": "^2.0.2",
     "postal-codes-js": "^2.2.5"
